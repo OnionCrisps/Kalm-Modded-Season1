@@ -5,6 +5,9 @@
 **` Applied Energistics 2 `** ; **Version**: `8.4.6`; **` CurseForge `**: https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
 
 
+**` CC: TWEAKED `**; **Version**: `1.100.2`; **` CurseForge `**: https://www.curseforge.com/minecraft/mc-mods/cc-tweaked/
+
+
 **` Mr Crayfish's Furniture Mod `** ; **Version**: `7.0.0pre22`; **` CurseForge `**: https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
 
 
